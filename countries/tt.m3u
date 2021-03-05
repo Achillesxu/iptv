@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/W87cTZc.png" tvg-url="" group-title="Documentary",Docurama (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="TT" tvg-language="English" tvg-logo="https://i.imgur.com/Z2Io8n4.png" tvg-url="" group-title="Religious",The Islamic Network (480p)
+http://162.244.81.145:2215/live/livestream/playlist.m3u8

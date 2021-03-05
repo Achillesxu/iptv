@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AFR" tvg-language="English,French" tvg-logo="" tvg-url="" group-title="News",Africanews
+https://stream-01.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irYx_0FF6U9rTG6jQRaN7dmM)/dm/3/x6i37o5/s/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AFR" tvg-language="French" tvg-logo="" tvg-url="" group-title="",Afrique Media
+https://stream-11.dc3.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDLdiK51g1rKfV8nVNh4JciA)/dm/3/x5dk3kj/d/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR;BE;CH;AFR" tvg-language="French" tvg-logo="https://static.epg.best/br/Boomerang.br.png" tvg-url="" group-title="Kids",Boomerang
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UG" tvg-language="English" tvg-logo="" tvg-url="" group-title="",NBS TV (480p)
+https://readymedia.moderntv.cloud:8092/distribute/readymedia/NBSTV_stream_qb/5-20-hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UG" tvg-language="English" tvg-logo="http://thedronemedia.ug/wp-content/uploads/2017/07/salt.png" tvg-url="" group-title="Religious",Salt TV (576p)
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/master.m3u8

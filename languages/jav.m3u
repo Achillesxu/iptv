@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="Javanese" tvg-logo="" tvg-url="" group-title="Local",TVRI Jawa Tengah (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="Javanese" tvg-logo="" tvg-url="" group-title="Local",TVRI Jawa Timur (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="Javanese" tvg-logo="" tvg-url="" group-title="Local",TVRI Yogyakarta (480p)
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8

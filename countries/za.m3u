@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AFR" tvg-language="English,French" tvg-logo="" tvg-url="" group-title="News",Africanews
+https://stream-01.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irYx_0FF6U9rTG6jQRaN7dmM)/dm/3/x6i37o5/s/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AFR" tvg-language="French" tvg-logo="" tvg-url="" group-title="",Afrique Media
+https://stream-11.dc3.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDLdiK51g1rKfV8nVNh4JciA)/dm/3/x5dk3kj/d/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-url="" group-title="News",Al Jazeera English (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-url="" group-title="News",Al Jazeera English (1080p)
+https://ch.iptvmate.net/b535c29748b3cd2db773e42fdb97672d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-url="" group-title="News",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" tvg-url="" group-title="News",Australia Channel (720p)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT;US;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" tvg-url="" group-title="News",BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-country="INT;US;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" tvg-url="" group-title="News",BBC World News (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EMEA" tvg-language="English" tvg-logo="https://i.imgur.com/EEAwv8z.jpg" tvg-url="" group-title="Business",Bloomberg TV EMEA Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR;BE;CH;AFR" tvg-language="French" tvg-logo="https://static.epg.best/br/Boomerang.br.png" tvg-url="" group-title="Kids",Boomerang
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle English (400p)
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-url="" group-title="News",Deutsche Welle English (400p)
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="" tvg-url="" group-title="News",Deutsche Welle English (720p)
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-url="" group-title="News",France 24 English (576p)
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-url="" group-title="News",France 24 English (576p)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-url="" group-title="News",France 24 French (576p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="" tvg-url="" group-title="News",TRT World (1080p)
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" tvg-url="" group-title="News",TRT World (1080p)
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ZA" tvg-language="English" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2018/10/cropped-ZNBC-logo-192x192.png" tvg-url="" group-title="",TV1 (540p)
+https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ZA" tvg-language="English" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2018/10/cropped-ZNBC-logo-192x192.png" tvg-url="" group-title="",TV4 (720p)
+https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BA;HR;MK;ME;RS;SI" tvg-language="Bosnian;Serbian;Croatian;Montenegrin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" tvg-url="" group-title="News",Al Jazeera Balkans (1080p)
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ME" tvg-language="Serbian" tvg-logo="https://i.imgur.com/jozQP6Z.png" tvg-url="" group-title="",RTCG Sat (720p)
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ME" tvg-language="Serbian" tvg-logo="https://i.imgur.com/jozQP6Z.png" tvg-url="" group-title="",RTCG Sat (720p)
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/EaEkaMQ.png" tvg-url="" group-title="",T7
+https://puma.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yzg0yt720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/GkqifMa.jpg" tvg-url="" group-title="",Televizija Leskovac
+http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ME" tvg-language="Serbian" tvg-logo="https://i.imgur.com/vAzXsBM.jpg" tvg-url="" group-title="",Televizija TV7 (480p)
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ME" tvg-language="Serbian" tvg-logo="https://i.imgur.com/IKlrt7F.jpg" tvg-url="" group-title="",Televizija TV7 (480p)
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" tvg-url="" group-title="Music",TV Duga Plus (480p)
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Hram-EXYU" tvg-name="TV Hram-EXYU" tvg-country="RS" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Msxeu2S.png" tvg-url="" group-title="",TV Hram (576p)
+http://178.253.194.75:1935/live/hram.stream/.m3u8

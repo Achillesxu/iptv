@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",ATB
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",ATB Cochabamba
+https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",ATB La Paz
+https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="http://www.boliviatv.bo/principal/assets/images/the-voyager/btv1.png" tvg-url="" group-title="",Bolivia TV (720p)
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (360p)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" tvg-url="" group-title="News",Canal 26 (720p)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (360p)
+https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (720p)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/APwaLsO.jpg" tvg-url="" group-title="Religious",Católica TV (280p)
+http://136.243.3.70:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/APwaLsO.jpg" tvg-url="" group-title="Religious",Católica TV (280p)
+http://www.channel.tevemi.com:1935/CatolicaTv/CatolicaTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="News",Deutsche Welle Español (400p)
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="",France 24 Spanish (576p)
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Auto",Garage TV (242p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1495522364_b446000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" tvg-url="" group-title="Auto",Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-url="" group-title="Entertainment",MTV (Latin America) (480p)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gXHwjSg.jpg" tvg-url="" group-title="",Red ADVenir
+https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Red-Advenir-100x70.png" tvg-url="" group-title="",Red ADVenir (360p)
+https://streamer1.streamhost.org/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-o_iPgvN5GR0/XCI680KIEJI/AAAAAAAAHQA/WFtw0xcxtwckxqmAX2OhcB98zSpw6DQ-ACLcBGAs/s1600/RTp%2Ben%2Bvivo%2BBolivia.png" tvg-url="" group-title="",RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/eTDc0wd.jpg" tvg-url="" group-title="",RTP (720p)
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YdiF5k6.png" tvg-url="" group-title="",TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7lkIFVg.jpg" tvg-url="" group-title="",Unitel
+http://136.243.3.70:1935/Unitel/Unitel/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p0lsIBW.png" tvg-url="" group-title="",Xto TV
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist.m3u8

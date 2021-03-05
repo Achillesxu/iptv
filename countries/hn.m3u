@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0urhlbe.png" tvg-url="" group-title="",CampusTV (360p)
+http://st2.worldkast.com/8004/8004/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (360p)
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" tvg-url="" group-title="News",Canal 26 (720p)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (360p)
+https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="News",Canal 26 (720p)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wHQOLAL.png" tvg-url="" group-title="",CCI Channel (720p)
+http://stream.innovandote.com:1935/cci/cci/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://www.ccichannel.tv/wp-content/uploads/2018/01/CCICHANNELlogo.png" tvg-url="" group-title="",CCI Channel (720p)
+https://5d597bfcee285.streamlock.net/cci/cci/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qRHwhND.png" tvg-url="" group-title="",Cholusat Sur 36 (214p)
+http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-url="" group-title="News",Deutsche Welle Español (400p)
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/W87cTZc.png" tvg-url="" group-title="Documentary",Docurama (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ANW1pIH.png" tvg-url="" group-title="",Ebenezer TV (1080p)
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ANW1pIH.png" tvg-url="" group-title="",Ebenezer TV (1080p)
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2_source/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ANW1pIH.png" tvg-url="" group-title="",Ebenezer TV (1080p)
+http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" tvg-url="" group-title="",France 24 Spanish (576p)
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="Auto",Garage TV (242p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1495522364_b446000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" tvg-url="" group-title="Auto",Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FOiUOeW.png" tvg-url="" group-title="Entertainment",MTV (Latin America) (480p)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ImxGqTN.jpg" tvg-url="" group-title="",Q'hubo (410p)
+http://st2.worldkast.com/8030/8030/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mIMat1y.jpg" tvg-url="" group-title="",Sercano TV (720p)
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wIcvdMQ.jpg" tvg-url="" group-title="",Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" tvg-url="" group-title="",TEN Canal 10
+http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w517207077_b1848000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" tvg-url="" group-title="",TEN Canal 10 (720p)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" tvg-url="" group-title="",TEN Canal 10 (720p)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HN" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",UTV (UNAH)
+https://live-utv.unah.edu.hn/web/salida.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FO" tvg-language="Faroese" tvg-logo="" tvg-url="" group-title="",KVF (720p)
+https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="NORD" tvg-language="Norwegian Bokmål" tvg-logo="https://i.imgur.com/QpdHuGo.png" tvg-url="" group-title="Entertainment",MTV Norge (720p)
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8

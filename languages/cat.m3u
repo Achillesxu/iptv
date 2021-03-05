@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24h Catalunya" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://graph.facebook.com/24htve/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",24h Catalunya (576p)
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES;AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/CnIVW9o.jpg" tvg-url="" group-title="News",3/24 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/pY8zxN3.png" tvg-url="" group-title="",Bon Dia TV (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 1" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_400x400.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",CCMA Exclusiu 1 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCMA Exclusiu 2" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_400x400.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",CCMA Exclusiu 2 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-url="" group-title="",RTVA (720p)
+http://videos.rtva.ad:1935/live/web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" tvg-url="" group-title="",RTVA (720p)
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/khRXhT1.png" tvg-url="" group-title="Local",Televisio Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 tvg-id="TV3.TV" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://i.imgur.com/QCKNWMJ.jpg" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",TV3 Catalunya (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist.m3u8
+#EXTINF:-1 tvg-id="APUNT.TV" tvg-name="" tvg-country="ES" tvg-language="Catalan" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="General",À Punt (720p)
+https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8

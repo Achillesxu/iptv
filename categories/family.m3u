@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png" tvg-url="" group-title="Family",AMG TV (480p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Family",AMGTV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/T1VHfY5.jpg" tvg-url="" group-title="Family",Apple Sauce TV (480p)
+https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/0QGkuL4.jpg" tvg-url="" group-title="Family",Dove Channel (1080p)
+https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FVWqYQG.png" tvg-url="" group-title="Family",Dove Channel (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Family",Dove Channel (1080p)
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ypQRBrH.png" tvg-url="" group-title="Family",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/1280x720_5000000/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-url="" group-title="Family",JOJ Family
+https://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-url="" group-title="Family",JOJ Family
+https://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-url="" group-title="Family",JOJ Family
+https://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" tvg-url="" group-title="Family",La Chaîne normande (LCN) (576p)
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg" tvg-url="" group-title="Family",Mi TV Televisión Clásica (480p)
+http://162.244.80.176:8081/abr/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3LEqi0D.png" tvg-url="" group-title="Family",Opportunity Knocks (480p)
+https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ULF3iOE.png" tvg-url="" group-title="Family",Positiv TV (1080p)
+https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/iuQyJ7f.jpg" tvg-url="" group-title="Family",TVS Family Channel (360p)
+https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8

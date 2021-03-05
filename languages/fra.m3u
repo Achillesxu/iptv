@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="French" tvg-logo="https://i.imgur.com/V6bL5MJ.png" tvg-url="" group-title="Religious",3ABN Français
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR;CH" tvg-language="French" tvg-logo="http://static.epg.best/fr/6ter.fr.png" tvg-url="" group-title="",6ter (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="AFR" tvg-language="French" tvg-logo="" tvg-url="" group-title="",Afrique Media
+https://stream-11.dc3.dailymotion.com/sec(dgo7N3WuCXm9a9JmNQTDDLdiK51g1rKfV8nVNh4JciA)/dm/3/x5dk3kj/d/live-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/0RQvs8y.png" tvg-url="" group-title="",Alpe d’Huez TV
+https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/S8TuhyF.png" tvg-url="" group-title="Local",Alsace 20 (720p)
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR;MU" tvg-language="French" tvg-logo="https://i.imgur.com/EPIMMaB.png" tvg-url="" group-title="",Antenne Réunion (360p)
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/dNQUbok.png" tvg-url="" group-title="",Assemblee Nationale du Quebec (360p)
+http://diffusionm3.assnat.qc.ca/canal10/250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BE" tvg-language="French" tvg-logo="https://i.ibb.co/VmQ5bzM/5107.jpg" tvg-url="" group-title="",Bel RTL (720p)
+https://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" tvg-url="" group-title="Business",BFM Business (480p)
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/ZEA3az8.png" tvg-url="" group-title="",BFM Grand Lille (720p)
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-url="" group-title="",BFM Grand Lille (720p)
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-url="" group-title="",BFM Grand Littoral (720p)
+https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-url="" group-title="",BFM Lyon (720p)
+https://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png" tvg-url="" group-title="",BFM Paris (480p)
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" tvg-url="" group-title="News",BFM TV (270p)
+https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-url="" group-title="",BFM TV (720p)
+https://bfmtvalive1-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YFEqBS7.png" tvg-url="" group-title="",Bip-TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://static.epg.best/es/Boing.es.png" tvg-url="" group-title="Kids",Boing
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR;BE;CH;AFR" tvg-language="French" tvg-logo="https://static.epg.best/br/Boomerang.br.png" tvg-url="" group-title="Kids",Boomerang
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CD" tvg-language="French" tvg-logo="" tvg-url="" group-title="General",Boss Brothers TV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-url="" group-title="",BX1 (720p)
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-url="" group-title="",Canal C (576p)
+http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/JJcnXUF.png" tvg-url="" group-title="",Canal C (1080p)
+https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/dSvUExH.png" tvg-url="" group-title="",Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/uoSMNnr.png" tvg-url="" group-title="Local",Canal Zoom (720p)
+http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR;BE;LU;MC;CH" tvg-language="French" tvg-logo="" tvg-url="" group-title="Kids",Cartoon Network
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CN" tvg-language="French" tvg-logo="" tvg-url="" group-title="",CGTN Français (720p)
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/KiyYqPK.jpg" tvg-url="" group-title="General",Congo Planet Television (1080p)
+https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CD" tvg-language="French" tvg-logo="https://i.imgur.com/KiyYqPK.jpg" tvg-url="" group-title="General",Congo Planet Television (1080p)
+https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/BMB9xq3.png" tvg-url="" group-title="",Conso TV Afrique (480p)
+http://connectiktv.ddns.net:5000/consotv/consotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/wwmapsS.png" tvg-url="" group-title="Legislative",CPAC (720p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/cThInij.png" tvg-url="" group-title="",D5 TV (720p)
+https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-url="" group-title="Music",DBM (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT" tvg-language="French" tvg-logo="" tvg-url="" group-title="Music",DBM (Digital Black Music)
+https://stream-06.ix7.dailymotion.com/sec(SVqA1Jy8rds-vM482iNMuBX_TuHI8a-hYJWnLNhR8HY)/dm/3/x5qokx5/s/live-4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" tvg-url="" group-title="",Dieu TV (1080p)
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/HRqcIcR.png" tvg-url="" group-title="",EMCI TV (1080p)
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/REJJHir.jpg" tvg-url="" group-title="",Emergence TV (480p)
+http://connectiktv.ddns.net:5000/emergencetv/emergencetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV L'Original
+https://a.jsrdn.com/broadcast/ftv2_1/-0800/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV L'Original
+https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" tvg-url="" group-title="Fashion",FashionTV Paris (1080p)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" tvg-url="" group-title="Fashion",FashionTV Paris
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" tvg-url="" group-title="Fashion",FashionTV PG13
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" tvg-url="" group-title="Fashion",FashionTV PG16
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="INT;US;UK;CA;AU;NZ;IE;ZA" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-url="" group-title="News",France 24 French (576p)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/lvrvwtm.png" tvg-url="" group-title="",Francophonie (360p)
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 tvg-id="Gulli" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mMWq0Kn.png" tvg-url="" group-title="Kids",Gulli (540p)
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/tzurFum.png" tvg-url="" group-title="Religious",HolyGod TV (720p)
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CA" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" tvg-url="" group-title="News",Ici RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BF" tvg-language="French" tvg-logo="https://i.imgur.com/sCGRccj.png" tvg-url="" group-title="Religious",Impact TV (360p)
+https://edge4.vedge.infomaniak.com/livecast/ik:impactv_1/manifest.m3u8
+#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-country="FR;UK;PT;ES;DK;NL;BE;CH" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" tvg-url="" group-title="",KTO (404p)
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" tvg-url="" group-title="",La chaîne L'Équipe (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
+#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" tvg-url="" group-title="Family",La Chaîne normande (LCN) (576p)
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/JiAnDPu.png" tvg-url="" group-title="",La Télé (1080p)
+https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/JiAnDPu.png" tvg-url="" group-title="",La Télé (1080p)
+https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="LCI" tvg-name="" tvg-country="FR;BE;CH;LU" tvg-language="French" tvg-logo="https://i.imgur.com/6VzdKEa.png" tvg-url="" group-title="",LCI (720p)
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/UE1E3uH.png" tvg-url="" group-title="",LFM TV (1080p)
+https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/bp1Qp0d.png" tvg-url="" group-title="News",LN24 (1080p)
+https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://static.epg.best/fr/M6.fr.png" tvg-url="" group-title="",M6 (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-url="" group-title="Music",MCM Top (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s49/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" tvg-url="" group-title="",MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MA" tvg-language="French" tvg-logo="" tvg-url="" group-title="",Medi 1 TV Afrique
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MA" tvg-language="French;Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" tvg-url="" group-title="",Medi 1 TV Maghreb
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-url="" group-title="Music",Mezzo (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/BuKv5Vj.png" tvg-url="" group-title="",My TV Channel (576p)
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="" tvg-url="" group-title="Comedy",MyComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HT" tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" tvg-url="" group-title="Music",Nago TV (720p)
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BE" tvg-language="French" tvg-logo="https://i.imgur.com/8CWBmcN.png" tvg-url="" group-title="",Notele (576p)
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CI" tvg-language="French" tvg-logo="https://i.imgur.com/qiGrf6k.png" tvg-url="" group-title="",NTV Afrique (1080p)
+https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/YEQ957V.png" tvg-url="" group-title="",One TV (720p)
+https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" tvg-url="" group-title="Music",Play TV (480p)
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="BE" tvg-language="French" tvg-logo="https://i.ibb.co/4jfSTKz/contact.jpg" tvg-url="" group-title="Music",Radio Contact (720p)
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HT" tvg-language="French" tvg-logo="https://i.imgur.com/HFyrVaS.png" tvg-url="" group-title="Local",Radio Tele Boston (480p)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR;MC" tvg-language="French" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" tvg-url="" group-title="",RMC (180p)
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/FVrOYXe.jpg" tvg-url="" group-title="",RMC Découverte (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH" tvg-language="French" tvg-logo="https://i.imgur.com/G030MZb.png" tvg-url="" group-title="",Rouge TV (720p)
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" tvg-url="" group-title="News",RT France (720p)
+https://rt-france.secure.footprint.net/1107.m3u8?streamType=live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="GN" tvg-language="French" tvg-logo="https://i.imgur.com/moTF5EE.jpg" tvg-url="" group-title="",RTG
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@690091/master.m3u8
+#EXTINF:-1 tvg-id="RTL-TVi BE" tvg-name="RTL-TVi BE" tvg-country="BE;LU" tvg-language="French" tvg-logo="https://i.imgur.com/yjtxdmh.png" tvg-url="" group-title="",RTL-TVi (720p)
+https://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="LU;FR;MC;CH" tvg-language="French" tvg-logo="https://photos.abweb.com/shared_ressources/logos/logo-rtl9.png" tvg-url="" group-title="",RTL9 (720p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HT" tvg-language="French" tvg-logo="https://i.imgur.com/vZmlq9N.jpg" tvg-url="" group-title="",Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CA" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleV_1200x1200.png" tvg-url="" group-title="",Tele-V (720p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="HT" tvg-language="French" tvg-logo="https://www.newsfromhaiti.com/images/TeleHaiti.jpg" tvg-url="" group-title="",TeleHaiti (1088p)
+http://66.175.238.147:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TF1 HD" tvg-name="" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://i.imgur.com/Y2C6vP7.png" tvg-url="" group-title="",TF1 (720p)
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live.m3u8
+#EXTINF:-1 tvg-id="TF1 Séries Films" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/qFLq6lE.png" tvg-url="" group-title="",TF1 Séries Films (720p)
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="TFX" tvg-name="" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://i.imgur.com/yJ5JRAK.png" tvg-url="" group-title="",TFX (720p)
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="GP" tvg-language="French" tvg-logo="https://i.imgur.com/fQUzBsz.png" tvg-url="" group-title="Music",TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-id="TMC" tvg-name="" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="https://i.imgur.com/s9BIeQ8.png" tvg-url="" group-title="",TMC (720p)
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/05RMwlR.png" tvg-url="" group-title="",TV3V (720p)
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png" tvg-url="" group-title="",TV5Monde Info
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/RuFISFk.png" tvg-url="" group-title="",TV7 Colmar (576p)
+https://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://www.tv78.com/wp-content/uploads/2019/04/cropped-tv78_logo.png" tvg-url="" group-title="Local",TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CH;FR;MC;BE;CA;LU" tvg-language="French" tvg-logo="https://www.tvm3.tv/images/Tvm3BlueLogo.png" tvg-url="" group-title="",TVM3 (1080p)
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://www.tvr.bzh/favicon-1024.png" tvg-url="" group-title="Local",TVR (720p)
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/6Iw1YRL.png" tvg-url="" group-title="Music",TZiK
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/oRigj9q.jpg" tvg-url="" group-title="",Télé Culturelle Médias (720p)
+https://5790d294af2dc.streamlock.net/8150/8150/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CM" tvg-language="French" tvg-logo="https://i.imgur.com/FekWmTu.jpg" tvg-url="" group-title="",Vision 4 (480p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="MAtélé" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/kmna9PU.png" tvg-url="" group-title="",ViàMATÉLÉ
+https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/YXUMEbi.png" tvg-url="" group-title="",ViàMoselle TV (720p)
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="French" tvg-logo="https://viaoccitanie.tv/fileadmin/via_main/img/logos/viaOccitanie-header.png" tvg-url="" group-title="Local",ViàOccitanie
+https://streamer03.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR;AD;BE;LU;MC;CH" tvg-language="French" tvg-logo="http://static.epg.best/fr/W9.fr.png" tvg-url="" group-title="",W9 (576p)
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8

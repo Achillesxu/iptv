@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="isuma.tv" tvg-country="CA" tvg-language="English;Inuktitut" tvg-logo="https://i.imgur.com/RR7ATr2.png" tvg-url="" group-title="",Uvagut TV (640p)
+http://dee7mwgg9dzvl.cloudfront.net/hls/live640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="isuma.tv" tvg-country="CA" tvg-language="English;Inuktitut" tvg-logo="https://i.imgur.com/RR7ATr2.png" tvg-url="" group-title="",Uvagut TV (720p)
+http://dee7mwgg9dzvl.cloudfront.net/hls/live720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="isuma.tv" tvg-country="CA" tvg-language="English;Inuktitut" tvg-logo="https://i.imgur.com/RR7ATr2.png" tvg-url="" group-title="",Uvagut TV (720p)
+http://dee7mwgg9dzvl.cloudfront.net/live.m3u8

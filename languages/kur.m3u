@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR;IQ" tvg-language="Kurdish" tvg-logo="" tvg-url="" group-title="",4 Kurd
+http://51.210.199.28/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://amozhgary.tv/style/img/logo.png" tvg-url="" group-title="Religious",Amozhgary
+http://82.212.74.100:8000/live/hls/8951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://www.kurdch.tv/wp-content/uploads/2020/06/kurdch-logo-300x240.png" tvg-url="" group-title="",Kurd Channel
+https://server5.ikomg.com/hls/kurd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/GLfhYSH.png" tvg-url="" group-title="",Kurdistan TV (720p)
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/XFbwbi4.png" tvg-url="" group-title="",Kurdsat
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://i.imgur.com/5ZQ4GTu.jpg" tvg-url="" group-title="",Rudaw TV (1080p)
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="TR" tvg-language="Kurdish" tvg-logo="https://i.ibb.co/bB4yG1Y/cWIvunZ.png" tvg-url="" group-title="",TRT Kurdi (720p)
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8

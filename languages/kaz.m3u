@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-url="" group-title="",Astana TV
+https://sc.id-tv.kz/Astana_38_39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-url="" group-title="Business",Atameken Business (720p)
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-url="" group-title="Business",Atameken Business
+https://sc.id-tv.kz/Atameken_38_39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-url="" group-title="Movies",Ел Арна
+https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/BGy7EMr.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",КТК (360p)
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-id="novoe-televidenie" tvg-name="Новое телевидение" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Новое телевидение (576p)
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-url="" group-title="",СТВ Казахстан
+https://sc.id-tv.kz/STV_38_39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-url="" group-title="",Хабар 24 (1080p)
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1 tvg-id="xabar24" tvg-name="Хабар 24" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/tEH4vmX.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Хабар 24 (1080p)
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-url="" group-title="",Хабар 24
+https://sc.id-tv.kz/Khabar_24_38_39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KZ" tvg-language="Kazakh" tvg-logo="" tvg-url="" group-title="",Халык Арна
+https://sc.id-tv.kz/HalykArna_38_39.m3u8
